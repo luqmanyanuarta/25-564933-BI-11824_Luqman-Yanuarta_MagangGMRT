@@ -1,7 +1,7 @@
 import numpy as np
 
-femur = int(input("masukan 2 angka terakhir NIU mu :  "))
-tibia = int(input("masukan 2 angka terakhir NIF mu :  "))
+femur = int(input("masukan 2 angka terakhir NIU mu ( femur ):  "))
+tibia = int(input("masukan 2 angka terakhir NIF mu ( tibia ):  "))
 
 sudut1 = float(input("masukan sudut 1 :  "))
 sudut2 = float(input("masukan sudut 2 :  "))
