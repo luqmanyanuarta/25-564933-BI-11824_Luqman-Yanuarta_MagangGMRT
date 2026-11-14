@@ -18,15 +18,15 @@ b. Uji dengan memasukkan input rotasi Servo 1 = 40° dan Servo 2 = 30° dan lamp
 
 c. Mathematical Proof: Menyertakan foto/scan coretan tangan perhitungan matematis rumus FK/IK ✅
 
-d. N-DoF: Menambahkan Degree of Freedom pada sistem (>2 DoF, misalnya panjang Coxa tidak lagi 0).
+d. N-DoF: Menambahkan Degree of Freedom pada sistem (>2 DoF, misalnya panjang Coxa tidak lagi 0). ❌
 
-e. Spatial Kinematics: Membuat sistem dalam tiga dimensi (X, Y, Z).
+e. Spatial Kinematics: Membuat sistem dalam tiga dimensi (X, Y, Z). ❌
 
-f. Homogeneous Transformation: Mengaplikasikan library matriks (misal: NumPy) untuk perhitungan Homogeneous Transform Matrix.
+f. Homogeneous Transformation: Mengaplikasikan library matriks (misal: NumPy) untuk perhitungan Homogeneous Transform Matrix.❌
 
-g. Visualisasi GUI/Plot: Menampilkan postur robot menggunakan matplotlib (dalam bentuk window pop-up atau menyimpan gambar png/jpg).
+g. Visualisasi GUI/Plot: Menampilkan postur robot menggunakan matplotlib (dalam bentuk window pop-up atau menyimpan gambar png/jpg).❌
 
-h. Inverse Kinematics (IK): Menambahkan opsi kalkulasi IK (mencari sudut jika diketahui target X, Y).
+h. Inverse Kinematics (IK): Menambahkan opsi kalkulasi IK (mencari sudut jika diketahui target X, Y).❌
 
 4. Cara Penggunaan
    
